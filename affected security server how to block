@@ -1,3 +1,5 @@
 কোনো Security Server আক্রান্ত বা compromised হলে সেটিকে X-Road সিস্টেম থেকে বিচ্ছিন্ন (block) করা যায় দুইভাবে:
 ১️⃣ তার authentication certificate বাতিল করে, বা 
 ২️⃣ Central Server-এর configuration থেকে মুছে ফেলে।
+
+একইভাবে, প্রয়োজন হলে কোনো নির্দিষ্ট সংস্থা বা subsystem-কেও কেন্দ্রীয়ভাবে বন্ধ করা যায়, অন্য সদস্য বা সার্ভারের উপর প্রভাব না ফেলেই।
