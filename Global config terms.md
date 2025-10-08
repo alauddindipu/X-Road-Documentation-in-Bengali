@@ -1,5 +1,6 @@
 
 <img width="526" height="618" alt="image" src="https://github.com/user-attachments/assets/fd118b4b-79a0-4fc1-b487-12402a6e8c7e" />
+
 Addresses and public keys of Central Server nodes – So that Security Servers can communicate securely with Central Servers.
 
 Addresses and public keys of trust anchors (Certification Authorities and Time Stamping Services) – Used to verify digital certificates and timestamps.
